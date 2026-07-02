@@ -1,5 +1,6 @@
-<div align="center">
 <img src="logo.png">
+
+<div align="center">
 # La2etha! · لقيتها
 
 **Found it!** — the exclamation of relief when you finally spot your photo.
