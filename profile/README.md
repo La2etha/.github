@@ -1,9 +1,7 @@
 
 <div align="center">
 
-<img src="logo.png" width="200" alt="Lahza logo" />
-
-# Lahza · لحظة
+<img src="teal.png"  alt="Lahza logo" />
 
 **Moment** — because every moment deserves to find its people.
 
